@@ -12,7 +12,7 @@ The project's outcome is a set of interactive and visually appealing 3D visualiz
 
 
 ### Programing Language: 
-Python
+1. Python
 
 ### Libraries:
 1. Numpy

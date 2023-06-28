@@ -3,9 +3,7 @@
 
 ## Business Understanding:
 
-### This project aims to visualize the sea level rise in the United States using 3D visualizations. 
-
-#### The project focuses on two main parts:
+#### This project aims to visualize the sea level rise in the United States using 3D visualizations and focuses on two main parts
 
 1. Time-series 3D Visualizations: Create time-series 3D visualizations using Uber's Keplergl API to observe sea level rise in centimeters from 1980 to 2019 across important coastal regions in the United States, such as Florida, Massachusetts, and Hawaii. The sea level rise is presented in a 3D bar chart format for each location.
 
@@ -19,10 +17,10 @@ The project's outcome is a set of interactive and visually appealing 3D visualiz
 
 ## Technologies Used:
 
-### Programming Language: 
+#### Programming Language: 
 1. Python
    
-### Libraries:
+#### Libraries:
 1. Numpy
 2. Pandas
 3. Plotly
